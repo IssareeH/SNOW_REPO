@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item/>
+        <catalog_variable>IO:39b2cb7d1b4d70101cf976ae034bcb32</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>false</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>AP\KSUPARE</sys_created_by>
+        <sys_created_on>2021-07-06 20:02:54</sys_created_on>
+        <sys_id>c2926a7b1bc530104a61ebd22a4bcb8f</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>phone_number</sys_name>
+        <sys_package display_value="SAP Tax" source="x_iem_sap_taxes">55c4c8111b89f4101cf976ae034bcbf0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SAP Tax">55c4c8111b89f4101cf976ae034bcbf0</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_c2926a7b1bc530104a61ebd22a4bcb8f</sys_update_name>
+        <sys_updated_by>AP\KSUPARE</sys_updated_by>
+        <sys_updated_on>2021-07-21 19:19:08</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Show - Fill in phone number">3ad1aeb71bc530104a61ebd22a4bcb7e</ui_policy>
+        <variable>phone_number</variable>
+        <variable_set display_value="SAP Tax Form - Requestor">1a5ff2b11b4d70101cf976ae034bcbd0</variable_set>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>

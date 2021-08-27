@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>catalog_sap_tax</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>AP\KSUPARE</sys_created_by>
+        <sys_created_on>2021-06-30 16:37:24</sys_created_on>
+        <sys_id>bd2ab2b51b0d70101cf976ae034bcbd3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SAP Tax View</sys_name>
+        <sys_package display_value="SAP Tax" source="x_iem_sap_taxes">55c4c8111b89f4101cf976ae034bcbf0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SAP Tax">55c4c8111b89f4101cf976ae034bcbf0</sys_scope>
+        <sys_update_name>sys_ui_view_bd2ab2b51b0d70101cf976ae034bcbd3</sys_update_name>
+        <sys_updated_by>AP\KSUPARE</sys_updated_by>
+        <sys_updated_on>2021-06-30 16:37:24</sys_updated_on>
+        <title>SAP Tax View</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

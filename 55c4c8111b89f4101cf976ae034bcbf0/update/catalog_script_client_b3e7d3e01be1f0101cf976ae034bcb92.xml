@@ -19,7 +19,6 @@
         <order/>
         <script><![CDATA[function onLoad() {
 	
-	g_form.addOption("country_region", "XX - Global", "Global");
 	g_form.addOption("country_region", "EU - Region – Europe", "Region – Europe");
 	g_form.addOption("country_region", "AP - Region – Asia Pacific", "Region – Asia Pacific");
 	g_form.addOption("country_region", "AFR - Region – Africa", "Region – Africa");
@@ -286,7 +285,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>b3e7d3e01be1f0101cf976ae034bcb92</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_name>Get Country</sys_name>
         <sys_overrides/>
         <sys_package display_value="SAP Tax" source="x_iem_sap_taxes">55c4c8111b89f4101cf976ae034bcbf0</sys_package>
@@ -294,7 +293,7 @@
         <sys_scope display_value="SAP Tax">55c4c8111b89f4101cf976ae034bcbf0</sys_scope>
         <sys_update_name>catalog_script_client_b3e7d3e01be1f0101cf976ae034bcb92</sys_update_name>
         <sys_updated_by>AP\KSUPARE</sys_updated_by>
-        <sys_updated_on>2021-08-02 04:26:11</sys_updated_on>
+        <sys_updated_on>2021-08-23 09:44:27</sys_updated_on>
         <table/>
         <type>onLoad</type>
         <ui_type>10</ui_type>

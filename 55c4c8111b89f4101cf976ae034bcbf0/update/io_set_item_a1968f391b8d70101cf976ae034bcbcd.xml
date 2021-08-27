@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
+    <io_set_item action="INSERT_OR_UPDATE">
+        <order>2000</order>
+        <sc_cat_item display_value="Tax SAP Request">7e5df2fd1b0d70101cf976ae034bcbd5</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>AP\KSUPARE</sys_created_by>
+        <sys_created_on>2021-06-30 17:31:58</sys_created_on>
+        <sys_id>a1968f391b8d70101cf976ae034bcbcd</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>SAP Tax Form - Additional Information.SAP Tax Request</sys_name>
+        <sys_package display_value="SAP Tax" source="x_iem_sap_taxes">55c4c8111b89f4101cf976ae034bcbf0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SAP Tax">55c4c8111b89f4101cf976ae034bcbf0</sys_scope>
+        <sys_update_name>io_set_item_a1968f391b8d70101cf976ae034bcbcd</sys_update_name>
+        <sys_updated_by>AP\KSUPARE</sys_updated_by>
+        <sys_updated_on>2021-07-06 20:10:48</sys_updated_on>
+        <variable_set display_value="SAP Tax Form - Additional Information">60260ff51b8d70101cf976ae034bcb53</variable_set>
+    </io_set_item>
+</record_update>

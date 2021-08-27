@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2021-08-24 09:16:16">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout display_value="layout_2_across">f6defafa0a0a0b12000d5016bd12ff06</layout>
+        <order/>
+        <read_roles>snc_internal</read_roles>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>AP\KSUPARE</sys_created_by>
+        <sys_created_on>2021-06-30 16:37:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ca2ab2b51b0d70101cf976ae034bcbd9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>catalog_sap_tax</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="SAP Tax" source="x_iem_sap_taxes">55c4c8111b89f4101cf976ae034bcbf0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SAP Tax">55c4c8111b89f4101cf976ae034bcbf0</sys_scope>
+        <sys_update_name>sys_portal_page_ca2ab2b51b0d70101cf976ae034bcbd9</sys_update_name>
+        <sys_updated_by>AP\KSUPARE</sys_updated_by>
+        <sys_updated_on>2021-06-30 16:37:24</sys_updated_on>
+        <title>catalog_sap_tax</title>
+        <user/>
+        <view>catalog_sap_tax</view>
+    </sys_portal_page>
+</record_update>

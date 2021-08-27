@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item/>
+        <catalog_variable>IO:df16850c1b59b0104a61ebd22a4bcb2c</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>200</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>AP\KSUPARE</sys_created_by>
+        <sys_created_on>2021-07-21 17:04:31</sys_created_on>
+        <sys_id>bfa9c3ac1b21f0101cf976ae034bcb3a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>extent_of_impact_to_the_business</sys_name>
+        <sys_package display_value="SAP Tax" source="x_iem_sap_taxes">55c4c8111b89f4101cf976ae034bcbf0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SAP Tax">55c4c8111b89f4101cf976ae034bcbf0</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_bfa9c3ac1b21f0101cf976ae034bcb3a</sys_update_name>
+        <sys_updated_by>AP\KSUPARE</sys_updated_by>
+        <sys_updated_on>2021-07-21 17:04:31</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Request Type is Error/Issue">b68cf2bb1bc930104a61ebd22a4bcb01</ui_policy>
+        <variable>extent_of_impact_to_the_business</variable>
+        <variable_set display_value="SAP Tax Form - Request Details">2634267f1bc530104a61ebd22a4bcb34</variable_set>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>

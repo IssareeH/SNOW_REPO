@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <misc>0</misc>
+        <order>100</order>
+        <published_ref/>
+        <question display_value="SAP System Environment">9c2e6a7b1b4930104a61ebd22a4bcba1</question>
+        <rec_misc>0</rec_misc>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>AP\KSUPARE</sys_created_by>
+        <sys_created_on>2021-07-06 20:54:34</sys_created_on>
+        <sys_id>ae7e6e7b1b4930104a61ebd22a4bcb14</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Production</sys_name>
+        <sys_package display_value="SAP Tax" source="x_iem_sap_taxes">55c4c8111b89f4101cf976ae034bcbf0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SAP Tax">55c4c8111b89f4101cf976ae034bcbf0</sys_scope>
+        <sys_update_name>question_choice_ae7e6e7b1b4930104a61ebd22a4bcb14</sys_update_name>
+        <sys_updated_by>AP\KSUPARE</sys_updated_by>
+        <sys_updated_on>2021-07-06 20:54:34</sys_updated_on>
+        <text>Production</text>
+        <value>production</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=ae7e6e7b1b4930104a61ebd22a4bcb14"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>misc</field>
+        <id>ae7e6e7b1b4930104a61ebd22a4bcb14</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>AP\KSUPARE</sys_created_by>
+        <sys_created_on>2021-07-06 20:54:34</sys_created_on>
+        <sys_id>fb8e62bb1b4930104a61ebd22a4bcb50</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>AP\KSUPARE</sys_updated_by>
+        <sys_updated_on>2021-07-06 20:54:34</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>rec_misc</field>
+        <id>ae7e6e7b1b4930104a61ebd22a4bcb14</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>AP\KSUPARE</sys_created_by>
+        <sys_created_on>2021-07-06 20:54:34</sys_created_on>
+        <sys_id>b38e62bb1b4930104a61ebd22a4bcb50</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>AP\KSUPARE</sys_updated_by>
+        <sys_updated_on>2021-07-06 20:54:34</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>
