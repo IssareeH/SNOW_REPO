@@ -40,9 +40,5 @@
         <vendor_prefix/>
         <version>1.0.1</version>
         <x_iem_plat_service_x_iem_scoped_domain display_value="Corporate" name="Corporate">4aa9b0aa1becf0101cf976ae034bcb42</x_iem_plat_service_x_iem_scoped_domain>
-        <x_iem_careerconnec_u_string_1/>
-        <x_iem_careerconnec_u_string_3/>
-        <x_iem_careerconnec_u_string_4/>
-        <x_iem_careerconnec_u_string_5/>
     </sys_app>
 </record_update>

@@ -15,6 +15,7 @@
         <display_price_property>non_zero</display_price_property>
         <entitlement_script/>
         <flow_designer_flow display_value="SAP Tax Request">90b7e6c21b0170101cf976ae034bcb10</flow_designer_flow>
+        <fulfillment_automation_level>unspecified</fulfillment_automation_level>
         <group/>
         <hide_sp>false</hide_sp>
         <icon/>
@@ -71,6 +72,7 @@
         <sys_update_name>sc_cat_item_7e5df2fd1b0d70101cf976ae034bcbd5</sys_update_name>
         <sys_updated_by>AP\KSUPARE</sys_updated_by>
         <sys_updated_on>2021-08-18 06:50:04</sys_updated_on>
+        <taxonomy_topic/>
         <template/>
         <template_manager_roles/>
         <type>item</type>
